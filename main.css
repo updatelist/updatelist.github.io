@@ -1,0 +1,20 @@
+body {
+    text-align: center;
+}
+
+.white {
+    color: aliceblue;
+}
+
+.main {
+    background-image: url(https://www.shutterstock.com/ko/blog/wp-content/uploads/sites/17/2018/09/shutterstock_684149035.jpg);
+}
+
+.h1 {
+    color: aliceblue;
+    font-size: 20px;
+}
+
+h5 {
+    color: aliceblue;
+}
